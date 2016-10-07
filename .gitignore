@@ -1,1 +1,3 @@
 *.class
+git rm Pet.class
+git rm PetStore.class
